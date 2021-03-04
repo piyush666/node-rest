@@ -1,0 +1,6 @@
+{
+    "env":{
+        "MONGO_PASS":"NOT YET INCL",
+        "JWT_KEY":"secret"
+    }
+}
